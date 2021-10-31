@@ -24,7 +24,7 @@ Aluno
 ## Como usar
 
 1. Instale o Java (Preferencialmente o [Java SE 16](https://www.oracle.com/java/technologies/javase/jdk16-archive-downloads.html)) e o [Eclipse](https://www.eclipse.org/downloads/).
-2. No Eclipse importe o projeto contido na pasta Server e o execute.
+2. No _Eclipse_ importe o projeto contido na pasta _Server_ e o execute.
 3. Instale o [Pyhton 3](https://www.python.org/) caso não tenha.
 4. Altere o _SERVER_NAME_ no arquivo _client.py_ caso seja necessário.
 6. Execute o _client.py_: ```python client.py```
