@@ -27,4 +27,4 @@ Aluno
 2. No _Eclipse_ importe o projeto contido na pasta _Server_ e o execute.
 3. Instale o [Pyhton 3](https://www.python.org/) caso não tenha.
 4. Altere o _SERVER_NAME_ no arquivo _client.py_ caso seja necessário.
-6. Execute o _client.py_: ```python client.py```
+6. Execute o _Client/client.py_: ```python Client/client.py```
