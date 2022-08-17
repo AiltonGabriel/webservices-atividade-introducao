@@ -1,4 +1,4 @@
-# atividade-introducao-webservices
+# webservices-atividade-introducao
 ## _Ativida de introdução Webservices_
 
 Implemente um programa que utilize comunicação via rede e arquitetura cliente-servidor, utilizando duas
