@@ -1,5 +1,5 @@
 # webservices-atividade-introducao
-## _Ativida de introdução Webservices_
+## _Web Services – Ativida de introdução_
 
 Implemente um programa que utilize comunicação via rede e arquitetura cliente-servidor, utilizando duas
 linguagens de programação diferentes (escolha livre), conforme a figura acima.
